@@ -41,4 +41,4 @@ This guide wouldn't have been possible without the extensive resources and commu
 
 ## Contact
 
-If you have any questions or feedback about the notebook, feel free to reach out to me at [akshaybhasme30@gmail.com].
+If you have any questions or feedback about the notebook, feel free to reach out to me at akshaybhasme30@gmail.com.
